@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 60px 0 60px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  background-color: #ffffff;
+}
+
+header {
+  z-index: 10;
+  height: 101px;
+  position: relative;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+svg[Attributes Style] {
+  width: 124;
+
+  height: 34;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a h1 h2 h3 h4 {
+  text-decoration: none;
+  display: inline-block;
+  color: #152137;
+}
+
+.header-container {
+  margin: 20px 30px 20px 30px;
+  margin: auto;
+
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-container {
+  margin: 0px 30px 0px 30px;
+
+  margin: auto;
+}
