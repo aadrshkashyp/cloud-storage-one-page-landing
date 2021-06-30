@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img loading="lazy" src="https://aadarshkashyap.pw/wp-content/uploads/2021/05/waving_hand.gif" width="30" height="30">, I'm Aadarsh kashyap</h1>
-<h3 align="center">A passionate Wordpress Expert from India and on a Journey to become a Full Stack Developer.</h3>
+<h3 align="center">A passionate Wordpress Expert and on a Journey to become a Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadrshkashyp&label=Profile%20views&color=0e75b6&style=flat" alt="aadrshkashyp" /> </p>
 
