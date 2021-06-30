@@ -18,7 +18,7 @@
 
 <p><a href="https://www.buymeacoffee.com/aadarshkashyap"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aadarshkashyap" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadrshkashyp&show_icons=true&locale=en&layout=compact" alt="aadrshkashyp" /><br><br></p><br>
+<p><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadrshkashyp&show_icons=true&locale=en&layout=compact" alt="aadrshkashyp" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadrshkashyp&show_icons=true&locale=en" alt="aadrshkashyp" /></p><br>
 
