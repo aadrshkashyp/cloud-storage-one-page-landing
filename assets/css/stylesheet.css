@@ -405,8 +405,25 @@
   width: 75%;
 }
 
-.left-right-section nav {
+.left-right-section .text-planhighlight nav {
   margin-top: 30px;
+  list-style-type: none;
+}
+
+.left-right-section .text-planhighlight nav i {
+  margin: 0 0 18px 0;
+  margin-right: 7px;
+  color: #9d72fe;
+  border-radius: 50%;
+}
+
+.left-right-section .text-planhighlight nav li {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 16px;
+  color: #596a7c;
 }
 
 /* Plan Highlights End */
