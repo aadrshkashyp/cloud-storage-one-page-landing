@@ -18,7 +18,7 @@
 
 <li>Feature Section hover animation using CSS box shadow. --  https://dribbble.com/shots/3657840-Team-members-hover-animation-using-CSS-box-shadow</li>
 
-<div style="width:100%;height:0;padding-bottom:26%;position:relative;"><iframe src="https://giphy.com/embed/U9RsnSGcq9VlMWTN31" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/U9RsnSGcq9VlMWTN31">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/U9RsnSGcq9VlMWTN31/giphy.gif">
 
 <h3 align="left">Support:</h3>
 
