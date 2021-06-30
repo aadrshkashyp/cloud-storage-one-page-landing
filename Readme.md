@@ -16,6 +16,10 @@
 
 <h3 align="left">Contribution and Source</h3>
 
+<li>Feature Section hover animation using CSS box shadow. -https://dribbble.com/shots/3657840-Team-members-hover-animation-using-CSS-box-shadow</li>
+<video loop height="220" width="390">
+  <source src="/assets/media/features.mp4" type="video/mp4">
+</video>
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/aadarshkashyap"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aadarshkashyap" /></a></p><br>
